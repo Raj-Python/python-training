@@ -1,0 +1,10 @@
+test:x:1008:1009::/home/test:/bin/bash
+hcl1:x:1009:1010::/home/hcl1:/bin/bash
+hcl2:x:1010:1011::/home/hcl2:/bin/bash
+hcl3:x:1011:1012::/home/hcl3:/bin/bash
+hcl4:x:1012:1013::/home/hcl4:/bin/bash
+hcl5:x:1013:1014::/home/hcl5:/bin/bash
+hcl6:x:1014:1015::/home/hcl6:/bin/bash
+hcl7:x:1015:1016::/home/hcl7:/bin/bash
+hcl8:x:1016:1017::/home/hcl8:/bin/bash
+hcl9:x:1017:1018::/home/hcl9:/bin/bash
