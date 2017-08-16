@@ -1,0 +1,1 @@
+print 'init deom the demo inheritance'
