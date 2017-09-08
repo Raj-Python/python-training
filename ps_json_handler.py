@@ -23,3 +23,5 @@ def serialize_json():
 
 pp(load(open('temp.json')))
 print load(open('temp.json'))['/etc/']['passwd'][-1]
+
+
